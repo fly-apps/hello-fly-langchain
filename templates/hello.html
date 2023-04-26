@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    </head>
+    <body>
+        <h1>What are the best places to eat in {{ place|title }}?</h1>
+        {% for item in answer %}
+            {% if item %}
+                <p>{{ item }}</p>
+            {% endif %}
+        {% endfor %}
+    </body>
+</html>

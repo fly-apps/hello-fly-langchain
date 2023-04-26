@@ -1,0 +1,13 @@
+.DS_Store
+.idea
+.vscode
+__pycache__
+*.pyc
+
+.git/
+
+venv/
+.env
+.env.dist
+
+fly.toml
