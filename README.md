@@ -4,25 +4,25 @@ Deploying a minimal Flask + [LangChain](https://github.com/hwchase17/langchain) 
 
 ## App: Best places to eat
 
-https://hello-fly-langchain.fly.dev/ will give 3 options where to eat in `<place>`. The default value is `Berlin`.
+The application will give 3 options where to eat in `<place>`. The default value is `Berlin`.
 
 **Prompt: `What are the 3 best places to eat in {place}?`**
 
 You can define your own input variable (`place`) by calling:
 ```
-https://hello-fly-langchain.fly.dev/<place>
+https://<your-app-name>.fly.dev/<place>
 ```
 
 Examples:
 
 #### Country
-- Norway: https://hello-fly-langchain.fly.dev/norway
+- Norway: https://<your-app-name>.fly.dev/norway
 
 #### City
-- São Paulo: https://hello-fly-langchain.fly.dev/s%C3%A3o%20paulo
+- São Paulo: https://<your-app-name>.fly.dev/s%C3%A3o%20paulo
 
 #### Specific area
-- Prague Old Town: https://hello-fly-langchain.fly.dev/prague%20old%20town
+- Prague Old Town: https://<your-app-name>.fly.dev/prague%20old%20town
 
 ## Local Development
 
