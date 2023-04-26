@@ -24,7 +24,7 @@ Examples:
 #### Specific area
 - Prague Old Town: `https://<your-app-name>.fly.dev/prague%20old%20town`
 
-## Local Development
+## Local Development ⚒️
 
 ### Create and Activate a Virtual Environment
 
@@ -64,7 +64,7 @@ Visit your [OpenAI API Key](https://platform.openai.com/account/api-keys) page t
 flask run
 ```
 
-## Deploying to Fly.io
+## Deploying to Fly.io 🚀
 
 [flyctl](https://fly.io/docs/hands-on/install-flyctl/) is the command-line utility provided by Fly.io.
 
