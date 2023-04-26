@@ -6,6 +6,5 @@ __pycache__
 
 venv/
 .env
-.env.dist
 
 fly.toml

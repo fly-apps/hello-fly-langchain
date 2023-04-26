@@ -50,7 +50,7 @@ python -m pip install -r requirements.txt
 The environment variables are stored in the `.env` file.
 
 Rename the `.env.dist` file to `.env`. Update the `OPENAI_API_KEY` environment variable with your own secret key:
-```
+```dotenv
 FLASK_APP=hello
 OPENAI_API_KEY=<your-openai-api-secret-key>
 ```
