@@ -16,13 +16,13 @@ https://<your-app-name>.fly.dev/<place>
 Examples:
 
 #### Country
-- Norway: https://<your-app-name>.fly.dev/norway
+- Norway: `https://<your-app-name>.fly.dev/norway`
 
 #### City
-- São Paulo: https://<your-app-name>.fly.dev/s%C3%A3o%20paulo
+- São Paulo: `https://<your-app-name>.fly.dev/s%C3%A3o%20paulo`
 
 #### Specific area
-- Prague Old Town: https://<your-app-name>.fly.dev/prague%20old%20town
+- Prague Old Town: `https://<your-app-name>.fly.dev/prague%20old%20town`
 
 ## Local Development
 
