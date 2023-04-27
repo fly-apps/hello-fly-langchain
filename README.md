@@ -31,12 +31,12 @@ Examples:
 We'll be using [venv](https://flask.palletsprojects.com/en/2.3.x/installation/#create-an-environment), but you can choose any virtual environment to manage the dependencies (e.g. virtualenv).
 ```shell
 # Unix/macOS
-$ python3 -m venv .venv
-$ . .venv/bin/activate
+$ python3 -m venv venv
+$ . venv/bin/activate
 
 # Windows
-$ py -3 -m venv .venv
-$ .venv\Scripts\activate
+$ py -3 -m venv venv
+$ venv\Scripts\activate
 ```
 
 ### Install Dependencies from `requirements.txt`
