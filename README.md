@@ -2,6 +2,8 @@
 
 Deploying a minimal Flask + [LangChain](https://github.com/hwchase17/langchain) application on Fly.io.
 
+> You can find the complete guide in this [Blog Post](https://fly.io/blog/deploying-langchain-to-fly-io/).
+
 ## App: Best places to eat
 
 The application will give 3 options where to eat in `<place>`. The default value is `Berlin`.
@@ -19,10 +21,7 @@ Examples:
 - Norway: `https://<your-app-name>.fly.dev/norway`
 
 #### City
-- São Paulo: `https://<your-app-name>.fly.dev/s%C3%A3o%20paulo`
-
-#### Specific area
-- Prague Old Town: `https://<your-app-name>.fly.dev/prague%20old%20town`
+- Prague: `https://<your-app-name>.fly.dev/prague`
 
 ## Local Development ⚒️
 
@@ -107,6 +106,5 @@ fly deploy
 ```shell
 fly open
 ```
-
 
 For detailed documentation on how to deploy a Flask application on [Fly.io](https://fly.io/), check [Run a Python App](https://fly.io/docs/languages-and-frameworks/python/).
