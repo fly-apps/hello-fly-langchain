@@ -1,5 +1,6 @@
 # LangChain Running on Fly.io
 
+![Illustration by Annie Ruygt](https://fly.io/blog/2023-05-08/deploying-langchain-to-fly-io-cover.webp)
 Deploying a minimal Flask + [LangChain](https://github.com/hwchase17/langchain) application on Fly.io.
 
 > You can find the complete guide in this [Blog Post](https://fly.io/blog/deploying-langchain-to-fly-io/).
